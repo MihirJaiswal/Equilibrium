@@ -5,7 +5,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className='h-screen'>
+    <div className='h-screen flex flex-col gap-2 bg-herob'>
         <HomeHeader/>
         <Hero1/>
         <Footer/>

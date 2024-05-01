@@ -2,7 +2,7 @@ import React, { ReactNode } from 'react'
 
 function RootLayout({children} : {children : ReactNode}) {
   return (
-    <main className='bg-gray-900 h-screen'>
+    <main className='bg-herob h-full'>
       {children}
     </main>
   )
