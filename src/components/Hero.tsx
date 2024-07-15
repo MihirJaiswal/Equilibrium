@@ -20,7 +20,7 @@ const Hero = () => {
             <h1 className="font-semibold text-gray-100 text-[40px] leading-[48px] lg:text-[48px] lg:leading-[60px]  xl:text-[58px] xl:leading-[74px]">
             Unlock Inner Harmony: Stress, Anxiety, Healing
             </h1>
-            <p className="leading-[30px] tracking-[2%] md:font-normal text-[20px] leading-[36px] text-gray-400">
+            <p className="leading-[30px] tracking-[2%] md:font-normal text-[20px] text-gray-400">
             Your Path to Stress Prediction, Anxiety Assessment, and Mindful Healing!
             </p>
             <motion.button // Wrap with motion.button for animation
