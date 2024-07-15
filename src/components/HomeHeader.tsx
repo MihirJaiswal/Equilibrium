@@ -4,9 +4,6 @@ import HomeNav from './HomeNav'
 import HomeMobileNav from './HomeMobileNav'
 import logo from '../../public/logo.png'
 
-
-
-
 const HomeHeader = () => {
   return (
     <div className='fixed w-full top-0 z-50 bg-mainb backdrop-blur-sm border-b border-n-6 lg:bg-black lg:backdrop-blur-sm'>
