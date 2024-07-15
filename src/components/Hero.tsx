@@ -8,7 +8,7 @@ import  { GlobeDemo } from './Globe';
 
 const Hero = () => {
   return (
-    <div className='bg-herob md:-mt-36 mt-4'>
+    <div className='bg-herob md:mt-20 mt-4'>
       <section className=" bg-dotted-pattern bg-contain py-5 md:py-10">
         <div className="max-w-7xl lg:mx-auto p-5 md:px-10 xl:px-0 w-full grid grid-cols-1 gap-5 md:grid-cols-2 2xl:gap-0">
           <motion.div // Wrap with motion.div for animation
@@ -34,9 +34,9 @@ const Hero = () => {
               </span>
             </motion.button>
           </motion.div>
-          <div className='px-auto mr-6 md:mr-0'>
+         {/*  <div className='px-auto mr-6 md:mr-0'>
           <GlobeDemo/>
-          </div>
+          </div> */}
         </div>
       </section>
     </div>

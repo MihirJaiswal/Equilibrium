@@ -1,5 +1,4 @@
 import Benefits from "@/components/Benefits";
-import { Bento } from "@/components/Bento";
 import Hero from "@/components/Hero";
 import HomeHeader from "@/components/HomeHeader";
 import Footer from "@/components/Footer";
@@ -13,7 +12,6 @@ export default function Home() {
     <Hero/>
     <Benefits/>
     <About/>
-    <Bento/>
     <Footer/>
    </div>
   );

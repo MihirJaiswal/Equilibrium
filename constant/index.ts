@@ -9,9 +9,4 @@ export const navigation = [
       title: "Chatbot",
       route: "/chatbot",
     },
-    {
-      label: "2",
-      title: "Society Server",
-      route: "/server",
-    }
   ];
